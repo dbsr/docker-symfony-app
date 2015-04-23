@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /home/dbsr/infostrada/pocs/symfony-docker-app/app/config/routing_dev.yml
